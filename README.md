@@ -13,3 +13,5 @@
 25.02.06 git merge ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/2%EC%A3%BC%EC%B0%A8/2025-02-06.md))
 
 25.02.07 딥다이브 ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/2%EC%A3%BC%EC%B0%A8/2025-02-07.md))
+
+25.02.08 선형대수/깃 init vs clone ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/2%EC%A3%BC%EC%B0%A8/2025-02-08.md))
