@@ -15,3 +15,9 @@
 25.02.07 딥다이브 ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/2%EC%A3%BC%EC%B0%A8/2025-02-07.md))
 
 25.02.08 선형대수/깃 init vs clone ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/2%EC%A3%BC%EC%B0%A8/2025-02-08.md))
+
+### [2월 둘째주, 3주차] : 데이터 시각화
+
+25.02.10 데이터 시각화 ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/3%EC%A3%BC%EC%B0%A8/2025-02-10.md))
+
+25.02.11 깃 충돌 관리(git rebase) ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/3%EC%A3%BC%EC%B0%A8/2025-02-11.md))
