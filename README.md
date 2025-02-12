@@ -21,3 +21,5 @@
 25.02.10 데이터 시각화 ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/3%EC%A3%BC%EC%B0%A8/2025-02-10.md))
 
 25.02.11 깃 충돌 관리(git rebase) ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/3%EC%A3%BC%EC%B0%A8/2025-02-11.md))
+
+25.02.12 AI엔지니어와 수학의 관계 ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/3%EC%A3%BC%EC%B0%A8/2025-02-12.md))
