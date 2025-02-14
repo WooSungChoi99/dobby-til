@@ -25,3 +25,5 @@
 25.02.12 AI엔지니어와 수학의 관계 ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/3%EC%A3%BC%EC%B0%A8/2025-02-12.md))
 
 25.02.13 SciPy 및 확률과 통계 ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/3%EC%A3%BC%EC%B0%A8/2025-02-13.md))
+
+25.02.14 딥다이브 정리(시계열 데이터) ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/3%EC%A3%BC%EC%B0%A8/2025-02-14.md))
