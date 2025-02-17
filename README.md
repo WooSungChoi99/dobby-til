@@ -27,3 +27,9 @@
 25.02.13 SciPy 및 확률과 통계 ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/3%EC%A3%BC%EC%B0%A8/2025-02-13.md))
 
 25.02.14 딥다이브 정리(시계열 데이터) ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/3%EC%A3%BC%EC%B0%A8/2025-02-14.md))
+
+25.02.15 선형대수학 복습(기저) ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/3%EC%A3%BC%EC%B0%A8/2025-02-15.md))
+
+### [2월 셋째주, 4주차] : 머신러닝
+
+25.02.17 선형대수학 기본기(선형대수식과 행렬의 관계) ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/4%EC%A3%BC%EC%B0%A8/2025-02-17.md))
