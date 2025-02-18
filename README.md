@@ -33,3 +33,5 @@
 ### [2월 셋째주, 4주차] : 머신러닝
 
 25.02.17 선형대수학 기본기(선형대수식과 행렬의 관계) ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/4%EC%A3%BC%EC%B0%A8/2025-02-17.md))
+
+25.02.18 머신러닝/딥러닝 기본기 ([상세 내역 링크](https://github.com/WooSungChoi99/dobby-til/blob/main/Feb/4%EC%A3%BC%EC%B0%A8/2025-02-18.md))
